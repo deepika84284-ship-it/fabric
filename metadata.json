@@ -1,0 +1,6 @@
+{
+  "name": "FabricFlow",
+  "description": "Enterprise B2B Textile Marketplace connecting luxury fashion houses, mills, fabric suppliers, and verified buyers worldwide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
